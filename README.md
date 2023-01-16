@@ -1,2 +1,2 @@
-# study-buddy
+# algo-workout
 Interview algo prep and community
